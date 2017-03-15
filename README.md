@@ -5,4 +5,3 @@ this repository contains my assignments
 
 [assignment 2]
 
-[my CV] 
