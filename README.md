@@ -1,7 +1,8 @@
 # assignments
 this repository contains my assignments
 
-[assignment 1] 
+[Week 2 Markdown Assignment] 
+
 
 [assignment 2]
 
