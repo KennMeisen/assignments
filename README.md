@@ -1,8 +1,5 @@
 # assignments
 this repository contains my assignments
 
-[Week 2 Markdown Assignment] 
-
-
-[assignment 2]
+[Assignment week 2](https://github.com/KennMeisen/assignments/blob/master/Assignment_week_2.ipynb) 
 
