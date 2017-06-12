@@ -7,4 +7,4 @@ this repository contains my assignments
 
 [Assignment week 6](https://github.com/KennMeisen/assignments/blob/master/assignment4.ipynb)
 
-[Final R assignment](
+[Final R assignment](https://github.com/KennMeisen/assignments/blob/master/OECD_R_exam.ipynb)
